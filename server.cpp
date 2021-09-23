@@ -4,6 +4,7 @@
 #include<sys/socket.h> /* provides socket function and generic socket addr */
 #include<netinet/in.h> /* contains definition for IP family*/
 #define PORT 8080
+#define SIZE 6500
 
 int main(){
 
